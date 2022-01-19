@@ -1,3 +1,3 @@
-# Automation-Test-Script
+# Automation-Test-Script Kumparan.com
 
-Dalam melakukan automation test script saya menggunakan aplikasi Test Complete 
+Dalam melakukan automation test script saya menggunakan aplikasi Test Complete
